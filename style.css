@@ -1,0 +1,54 @@
+body{
+    background-color: blueviolet;
+}
+
+#h1{
+    color: aqua;
+    margin-left: 2px;
+    border: 3px solid yellow;
+    border-right: 10px solid black;
+    width: 450px;
+    max-width: 90%;
+}
+
+#div1{
+    background-color: yellow;
+    border: 70px solid yellow;
+    border-width: 100px;
+    width: 100px;
+    max-width: 90%;
+    height: 150px;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+
+#username{
+    border-radius: 20px;
+    background-color: blueviolet;
+    width: 170px;
+    height: 30px;
+}
+
+#password{
+    border-radius: 20px;
+    background-color: blueviolet;
+    width: 170px;
+    height: 30px;
+}
+
+#s{
+    background-color: purple;
+    color: yellow;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+
+#hhh{
+    color: red;
+}
+
+
+#dad{
+    max-width: 90%;
+}
